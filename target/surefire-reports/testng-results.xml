@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="8" total="11" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Execution" duration-ms="71022" started-at="2020-09-01T22:39:47 IST" finished-at="2020-09-01T22:40:58 IST">
+    <groups>
+    </groups>
+    <test name="Test Demo" duration-ms="71022" started-at="2020-09-01T22:39:47 IST" finished-at="2020-09-01T22:40:58 IST">
+      <class name="com.framework.qa.testcases.ValidateSearchPageTestCases">
+        <test-method status="PASS" signature="validateSearchProduct()[pri:3, instance:com.framework.qa.testcases.ValidateSearchPageTestCases@370736d9]" name="validateSearchProduct" duration-ms="3335" started-at="2020-09-01T22:40:50 IST" finished-at="2020-09-01T22:40:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchProduct -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.framework.qa.testcases.ValidateSearchPageTestCases@370736d9]" name="getResult" is-config="true" duration-ms="168" started-at="2020-09-01T22:40:54 IST" finished-at="2020-09-01T22:40:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchProduct status=SUCCESS method=ValidateSearchPageTestCases.validateSearchProduct()[pri:3, instance:com.framework.qa.testcases.ValidateSearchPageTestCases@370736d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- com.framework.qa.testcases.ValidateSearchPageTestCases -->
+      <class name="com.framework.qa.testcases.ValidateRegistrationPageTestCases">
+        <test-method status="PASS" signature="initReport()[pri:0, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@56235b8e]" name="initReport" is-config="true" duration-ms="148" started-at="2020-09-01T22:39:47 IST" finished-at="2020-09-01T22:39:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initReport -->
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@56235b8e]" name="initializeDriver" is-config="true" duration-ms="21888" started-at="2020-09-01T22:39:47 IST" finished-at="2020-09-01T22:40:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="validateUserRegistrationProcess()[pri:1, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@56235b8e]" name="validateUserRegistrationProcess" duration-ms="14756" started-at="2020-09-01T22:40:09 IST" finished-at="2020-09-01T22:40:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserRegistrationProcess -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@56235b8e]" name="getResult" is-config="true" duration-ms="121" started-at="2020-09-01T22:40:24 IST" finished-at="2020-09-01T22:40:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateUserRegistrationProcess status=SUCCESS method=ValidateRegistrationPageTestCases.validateUserRegistrationProcess()[pri:1, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@56235b8e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@56235b8e]" name="closeBrowser" is-config="true" duration-ms="4001" started-at="2020-09-01T22:40:54 IST" finished-at="2020-09-01T22:40:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@56235b8e]" name="tearDown" is-config="true" duration-ms="3176" started-at="2020-09-01T22:40:58 IST" finished-at="2020-09-01T22:41:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.framework.qa.testcases.ValidateRegistrationPageTestCases -->
+      <class name="com.framework.qa.testcases.ValidateOrderPageTestCases">
+        <test-method status="PASS" signature="validateEndToEndBuyOrderFunctionality()[pri:2, instance:com.framework.qa.testcases.ValidateOrderPageTestCases@3108bc]" name="validateEndToEndBuyOrderFunctionality" duration-ms="26099" started-at="2020-09-01T22:40:24 IST" finished-at="2020-09-01T22:40:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEndToEndBuyOrderFunctionality -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.framework.qa.testcases.ValidateOrderPageTestCases@3108bc]" name="getResult" is-config="true" duration-ms="149" started-at="2020-09-01T22:40:50 IST" finished-at="2020-09-01T22:40:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateEndToEndBuyOrderFunctionality status=SUCCESS method=ValidateOrderPageTestCases.validateEndToEndBuyOrderFunctionality()[pri:2, instance:com.framework.qa.testcases.ValidateOrderPageTestCases@3108bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- com.framework.qa.testcases.ValidateOrderPageTestCases -->
+    </test> <!-- Test Demo -->
+  </suite> <!-- Test Execution -->
+</testng-results>

@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="8" total="11" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Test Execution" duration-ms="71022" started-at="2020-09-01T22:39:47 IST" finished-at="2020-09-01T22:40:58 IST">
+  <suite name="Test Execution" duration-ms="39118" started-at="2020-09-03T10:03:10Z" finished-at="2020-09-03T10:03:49Z">
     <groups>
     </groups>
-    <test name="Test Demo" duration-ms="71022" started-at="2020-09-01T22:39:47 IST" finished-at="2020-09-01T22:40:58 IST">
+    <test name="Test Demo" duration-ms="39118" started-at="2020-09-03T10:03:10Z" finished-at="2020-09-03T10:03:49Z">
       <class name="com.framework.qa.testcases.ValidateSearchPageTestCases">
-        <test-method status="PASS" signature="validateSearchProduct()[pri:3, instance:com.framework.qa.testcases.ValidateSearchPageTestCases@370736d9]" name="validateSearchProduct" duration-ms="3335" started-at="2020-09-01T22:40:50 IST" finished-at="2020-09-01T22:40:54 IST">
+        <test-method status="PASS" signature="validateSearchProduct()[pri:3, instance:com.framework.qa.testcases.ValidateSearchPageTestCases@23986957]" name="validateSearchProduct" duration-ms="1488" started-at="2020-09-03T10:03:46Z" finished-at="2020-09-03T10:03:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateSearchProduct -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.framework.qa.testcases.ValidateSearchPageTestCases@370736d9]" name="getResult" is-config="true" duration-ms="168" started-at="2020-09-01T22:40:54 IST" finished-at="2020-09-01T22:40:54 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.framework.qa.testcases.ValidateSearchPageTestCases@23986957]" name="getResult" is-config="true" duration-ms="69" started-at="2020-09-03T10:03:48Z" finished-at="2020-09-03T10:03:48Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=validateSearchProduct status=SUCCESS method=ValidateSearchPageTestCases.validateSearchProduct()[pri:3, instance:com.framework.qa.testcases.ValidateSearchPageTestCases@370736d9] output={null}]]]>
+                <![CDATA[[TestResult name=validateSearchProduct status=SUCCESS method=ValidateSearchPageTestCases.validateSearchProduct()[pri:3, instance:com.framework.qa.testcases.ValidateSearchPageTestCases@23986957] output={null}]]]>
               </value>
             </param>
           </params>
@@ -24,48 +24,48 @@
         </test-method> <!-- getResult -->
       </class> <!-- com.framework.qa.testcases.ValidateSearchPageTestCases -->
       <class name="com.framework.qa.testcases.ValidateRegistrationPageTestCases">
-        <test-method status="PASS" signature="initReport()[pri:0, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@56235b8e]" name="initReport" is-config="true" duration-ms="148" started-at="2020-09-01T22:39:47 IST" finished-at="2020-09-01T22:39:47 IST">
+        <test-method status="PASS" signature="initReport()[pri:0, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@f8c1ddd]" name="initReport" is-config="true" duration-ms="160" started-at="2020-09-03T10:03:10Z" finished-at="2020-09-03T10:03:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initReport -->
-        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@56235b8e]" name="initializeDriver" is-config="true" duration-ms="21888" started-at="2020-09-01T22:39:47 IST" finished-at="2020-09-01T22:40:09 IST">
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@f8c1ddd]" name="initializeDriver" is-config="true" duration-ms="8224" started-at="2020-09-03T10:03:10Z" finished-at="2020-09-03T10:03:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeDriver -->
-        <test-method status="PASS" signature="validateUserRegistrationProcess()[pri:1, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@56235b8e]" name="validateUserRegistrationProcess" duration-ms="14756" started-at="2020-09-01T22:40:09 IST" finished-at="2020-09-01T22:40:24 IST">
+        <test-method status="PASS" signature="validateUserRegistrationProcess()[pri:1, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@f8c1ddd]" name="validateUserRegistrationProcess" duration-ms="8336" started-at="2020-09-03T10:03:18Z" finished-at="2020-09-03T10:03:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateUserRegistrationProcess -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@56235b8e]" name="getResult" is-config="true" duration-ms="121" started-at="2020-09-01T22:40:24 IST" finished-at="2020-09-01T22:40:24 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@f8c1ddd]" name="getResult" is-config="true" duration-ms="101" started-at="2020-09-03T10:03:26Z" finished-at="2020-09-03T10:03:27Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=validateUserRegistrationProcess status=SUCCESS method=ValidateRegistrationPageTestCases.validateUserRegistrationProcess()[pri:1, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@56235b8e] output={null}]]]>
+                <![CDATA[[TestResult name=validateUserRegistrationProcess status=SUCCESS method=ValidateRegistrationPageTestCases.validateUserRegistrationProcess()[pri:1, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@f8c1ddd] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@56235b8e]" name="closeBrowser" is-config="true" duration-ms="4001" started-at="2020-09-01T22:40:54 IST" finished-at="2020-09-01T22:40:58 IST">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@f8c1ddd]" name="closeBrowser" is-config="true" duration-ms="1181" started-at="2020-09-03T10:03:48Z" finished-at="2020-09-03T10:03:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@56235b8e]" name="tearDown" is-config="true" duration-ms="3176" started-at="2020-09-01T22:40:58 IST" finished-at="2020-09-01T22:41:02 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.framework.qa.testcases.ValidateRegistrationPageTestCases@f8c1ddd]" name="tearDown" is-config="true" duration-ms="699" started-at="2020-09-03T10:03:49Z" finished-at="2020-09-03T10:03:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.framework.qa.testcases.ValidateRegistrationPageTestCases -->
       <class name="com.framework.qa.testcases.ValidateOrderPageTestCases">
-        <test-method status="PASS" signature="validateEndToEndBuyOrderFunctionality()[pri:2, instance:com.framework.qa.testcases.ValidateOrderPageTestCases@3108bc]" name="validateEndToEndBuyOrderFunctionality" duration-ms="26099" started-at="2020-09-01T22:40:24 IST" finished-at="2020-09-01T22:40:50 IST">
+        <test-method status="PASS" signature="validateEndToEndBuyOrderFunctionality()[pri:2, instance:com.framework.qa.testcases.ValidateOrderPageTestCases@4c15e7fd]" name="validateEndToEndBuyOrderFunctionality" duration-ms="19628" started-at="2020-09-03T10:03:27Z" finished-at="2020-09-03T10:03:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateEndToEndBuyOrderFunctionality -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.framework.qa.testcases.ValidateOrderPageTestCases@3108bc]" name="getResult" is-config="true" duration-ms="149" started-at="2020-09-01T22:40:50 IST" finished-at="2020-09-01T22:40:50 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.framework.qa.testcases.ValidateOrderPageTestCases@4c15e7fd]" name="getResult" is-config="true" duration-ms="56" started-at="2020-09-03T10:03:46Z" finished-at="2020-09-03T10:03:46Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=validateEndToEndBuyOrderFunctionality status=SUCCESS method=ValidateOrderPageTestCases.validateEndToEndBuyOrderFunctionality()[pri:2, instance:com.framework.qa.testcases.ValidateOrderPageTestCases@3108bc] output={null}]]]>
+                <![CDATA[[TestResult name=validateEndToEndBuyOrderFunctionality status=SUCCESS method=ValidateOrderPageTestCases.validateEndToEndBuyOrderFunctionality()[pri:2, instance:com.framework.qa.testcases.ValidateOrderPageTestCases@4c15e7fd] output={null}]]]>
               </value>
             </param>
           </params>

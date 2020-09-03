@@ -15,8 +15,7 @@ public class ValidateOrderPageTestCases extends BaseTest {
 		orderPage.goToLaptopAndNoteBookAndChooseShowAll();
 		orderPage.getItemNameandAddToCart();
 		orderPage.clickShoppingCartAndCheckout();
-		// orderPage.enterBillingDetails();
 		orderPage.validateDeliveryDetailsAndMethod();
-		orderPage.validateOrderItem();
+		orderPage.validateOrderedItem();
 	}
 }

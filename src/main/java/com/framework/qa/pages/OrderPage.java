@@ -155,7 +155,7 @@ public class OrderPage extends BasePage {
 		isDisplayedThenClick(continuePaymentbtn, "Payment Method Continue");
 	}
 
-	public void validateOrderItem() {
+	public void validateOrderedItem() {
 		isDisplayedThenClick(continueOrderbtn, "Continue Order");
 		sleep(2);
 		verifyPageTitle("Your order has been placed!");
